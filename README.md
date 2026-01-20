@@ -1,2 +1,9 @@
 # VisionSync-OCR-Pipeline
 An automated Computer Vision pipeline for document digitization. Features real-time perspective correction (de-skewing), intelligent page-number extraction via OCR, and SQL-backed metadata logging for sequential document assembly
+## 🛠 Current Progress
+- **Day 1:** Project Initialization & Environment Setup.
+- **Day 2:** Established Input Layer. Implemented `validate_inputs.py` to ensure only valid `.jpg`, `.jpeg`, and `.png` files enter the pipeline.
+
+## 🚀 Next Steps
+- Implement basic OCR engine using Tesseract/EasyOCR.
+- Design SQL schema for metadata logging.
