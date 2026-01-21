@@ -7,3 +7,4 @@ An automated Computer Vision pipeline for document digitization. Features real-t
 ## 🚀 Next Steps
 - Implement basic OCR engine using Tesseract/EasyOCR.
 - Design SQL schema for metadata logging.
+Log 2026-01-21: Researching OS System Calls and DBMS ER-Modeling. Foundation phase.
