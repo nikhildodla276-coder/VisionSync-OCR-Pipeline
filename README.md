@@ -8,3 +8,5 @@ An automated Computer Vision pipeline for document digitization. Features real-t
 - Implement basic OCR engine using Tesseract/EasyOCR.
 - Design SQL schema for metadata logging.
 Log 2026-01-21: Researching OS System Calls and DBMS ER-Modeling. Foundation phase.
+### 📈 Daily Architectural Logs
+- **2026-01-22:** Deep dive into **Deep Learning Unit 1**. Mapping the **Perceptron Model** and **Activation Functions** (ReLU/Sigmoid) to VisionSync's decision-making logic.
