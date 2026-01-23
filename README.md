@@ -10,3 +10,11 @@ An automated Computer Vision pipeline for document digitization. Features real-t
 Log 2026-01-21: Researching OS System Calls and DBMS ER-Modeling. Foundation phase.
 ### 📈 Daily Architectural Logs
 - **2026-01-22:** Deep dive into **Deep Learning Unit 1**. Mapping the **Perceptron Model** and **Activation Functions** (ReLU/Sigmoid) to VisionSync's decision-making logic.
+### 📈 Daily Growth Metrics
+- **Coding:** 2 hours/day (Focus: Python & DL Fundamentals)
+- **Communication:** Daily English Narration & Technical Articulation practice.
+- **Philosophy:** Applying Gita-based logic to System Architecture and Problem Solving.
+
+### 🛠️ Currently Learning
+- **Deep Learning:** MLP, Backpropagation, and Activation Functions.
+- **Soft Skills:** Active Observation & High-Value Professional Communication.
