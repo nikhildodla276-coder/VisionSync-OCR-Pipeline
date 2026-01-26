@@ -26,3 +26,23 @@ Goal: ₹50k/month Remote Internship by Dec 2026.
 Current Sprint: Mastering the Workstation & Technical Trinity.
 
 Days Remaining: 340.
+# 🌑 The Shadow Specialist | AI Automation Architect
+
+> "Success is the steady progress toward one's personal goals." — *Gita Wisdom*
+
+### 🛠 The Technical Trinity
+- **Languages:** Python (Mastering), SQL (DBMS Focus)
+- **AI Frameworks:** LangChain, CrewAI
+- **Core Logic:** Operating Systems, Deep Learning
+
+### 📈 Mission 2026: The Sovereign Path
+- 🎯 **Current Goal:** ₹50k/month Remote AI Internship (Target: Dec 2026)
+- 🏗 **Building:** Automated agents for Academic Dominance (DL, DBMS, OS)
+- 🧠 **Philosophy:** Nishkama Karma (Action without attachment to results)
+
+### 📊 Specialist Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+### 🔗 Connect with the Shadow
+[LinkedIn] | [X/Twitter] | [Portfolio]
