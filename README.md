@@ -35,3 +35,18 @@ Focus Logic: Disabled "Auto-hide" functionality to maintain constant visibility 
 AI Automation Development Environment
 Project Status: Phase 1 (Environment & Infrastructure)
 Objective: Establish a high-performance local development environment for Agentic AI workflows and Large Language Model (LLM) orchestration
+## 📁 Project: Vault Guardian (v1.0)
+**Core Competency:** System Automation & File I/O
+
+### ⚡ Overview
+A professional-grade Python automation script designed to secure the `SYSTEM_VAULT_2026` repository. This tool utilizes the `shutil` and `logging` modules to create compressed, timestamped backups, ensuring data integrity for the Architect's workspace.
+
+### 🛠 Technical Specifications
+- **Language:** Python 3.x
+- **Standard:** PEP-8 Compliant
+- **Modules:** `os`, `shutil`, `datetime`, `logging`
+- **Architecture:** Procedural with robust error handling and logging.
+
+### 🚀 Usage
+```bash
+python vault_guardian.py
