@@ -50,3 +50,28 @@ A professional-grade Python automation script designed to secure the `SYSTEM_VAU
 ### 🚀 Usage
 ```bash
 python vault_guardian.py
+🌑 Shadow Sovereign: Self-Healing AI Life-Pipeline
+
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![LLM: Gemini 2.0 Flash](https://img.shields.io/badge/LLM-Gemini%202.0%20Flash-orange)](https://deepmind.google/technologies/gemini/)
+[![Framework: CrewAI](https://img.shields.io/badge/Framework-CrewAI-red)](https://www.crewai.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+> **Identity:** The Shadow Specialist (Ayanokōji Logic + Gita Wisdom)  
+> **Mission:** Automate the "Fruit" to master the "Action." Target: ₹50k/month Internship (Dec 2026).
+
+---
+
+## 🏗️ System Architecture
+
+This project is built from scratch to be **Model-Agnostic** and **Self-Healing**. It doesn't just execute tasks; it audits its own performance and migrates dependencies.
+
+```mermaid
+graph TD
+    A[Master/User] -->|Goal Setting| B(Manager Agent)
+    B -->|Task Delegation| C[Scout Agent: Web Search]
+    B -->|Context Retrieval| D[(Vector DB: ChromaDB)]
+    C -->|New Tech/Jobs| E{Audit Agent}
+    E -->|Validation| B
+    E -->|Error Detected| F[Self-Healing Pipeline]
+    F -->|Fix Code/Update Deps| A
